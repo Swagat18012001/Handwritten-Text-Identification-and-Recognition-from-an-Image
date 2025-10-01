@@ -1,4 +1,4 @@
-# Automate-Identification-and-Recognition-of-Handwritten-Text-from-an-Image
+## Automate-Identification-and-Recognition-of-Handwritten-Text-from-an-Image
 
 This project implements a deep learning pipeline to automatically identify and recognize handwritten text from images. It uses a Convolutional Recurrent Neural Network (CRNN) combining convolutional layers for feature extraction, bidirectional LSTMs for sequence modeling, and Connectionist Temporal Classification (CTC) loss for training without the need for character-level segmentation.
 
